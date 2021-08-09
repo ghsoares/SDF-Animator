@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Godot\SDF Icon\.mono\temp\bin\Debug\SDF Icon.dll
+C:\Users\Administrator\Documents\Godot\SDF Icon\.mono\temp\bin\Debug\SDF Icon.pdb
+C:\Users\Administrator\Documents\Godot\SDF Icon\.mono\temp\obj\Debug\SDF Icon.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Godot\SDF Icon\.mono\temp\obj\Debug\SDF Icon.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Godot\SDF Icon\.mono\temp\obj\Debug\SDF Icon.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Godot\SDF Icon\.mono\temp\obj\Debug\SDF Icon.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Godot\SDF Icon\.mono\temp\obj\Debug\SDF Icon.dll
+C:\Users\Administrator\Documents\Godot\SDF Icon\.mono\temp\obj\Debug\SDF Icon.pdb
